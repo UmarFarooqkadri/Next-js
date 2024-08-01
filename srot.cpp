@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+using namespace std;
 
 
 void combine(int arr[],si,mid,eni){
